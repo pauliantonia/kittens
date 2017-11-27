@@ -1,0 +1,10 @@
+.sunnyday-image {
+  background-image: url("../images/sunny-day.jpg");
+  background-size: cover;
+  padding: 10%; 
+}
+
+.kitten-image {
+  margin: 23% 0% 0% 28%;
+}
+
